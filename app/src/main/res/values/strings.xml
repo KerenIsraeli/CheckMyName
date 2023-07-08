@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckMyName</string>
+    <string name="title_checker">Name Checker</string>
+    <string name="title_probabilities">Probabilities</string>
+    <string name="back">back</string>
+    <string name="done">DONE</string>
+    <string name="probability">%s = %.5f</string>
+    <string name="name_insertion_hint">Enter Name</string>
+</resources>
